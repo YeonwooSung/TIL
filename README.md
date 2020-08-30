@@ -7,6 +7,7 @@
 ### PyTorch Lightning
 
 * [GAN - PyTorch Lightning implementation](./pytorch/pytorch_lightning/gan/gan.py)
+* [Unit testing the PyTorch code](./pytorch/testing/how_to_test_if_pytorch_code_is_working_as_intended.md)
 
 ## Python
 
