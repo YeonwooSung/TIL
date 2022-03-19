@@ -25,6 +25,7 @@
 
 * [DOM class list](./javascript/DOM_classList/DOM_classList.md)
 * [PM2 commands](./javascript/pm2/pm2_commands.md)
+* [Audio permission issue](./javascript/audio_permission_for_autoplay/README.md)
 
 ## Debugging
 
