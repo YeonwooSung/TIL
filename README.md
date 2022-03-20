@@ -17,6 +17,24 @@
 * [Useful helper functions](./python/useful_helper_functions.py)
 * [Regular Expression with python - Simple example](./python/regex/simple_regex.py)
 
+## Shell
+
+### brew
+
+```bash
+# uninstall git
+$ brew uninstall git
+
+# uninstall dbeaver-community by using --cask flag
+$ brew uninstall --cask dbeaver-community
+
+# use autoremove
+$ brew autoremove
+
+# use cleanup
+$ brew cleanup
+```
+
 ## Git
 
 * [1k changes 문제 해결하기](./Git/solve_1k.md)
