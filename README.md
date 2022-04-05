@@ -17,6 +17,16 @@
 * [Useful helper functions](./python/useful_helper_functions.py)
 * [Regular Expression with python - Simple example](./python/regex/simple_regex.py)
 
+### setuptools
+
+라이센스 등 classifier 부분에 태그를 추가할 때에는 내용을 정확히 작성하지 않으면 빌드 시에 오류가 발생한다.
+
+[참고 자료](https://pypi.org/classifiers/)
+
+[배포 관련](https://rampart81.github.io/post/python_package_publish/)
+
+[패키징 방법](https://data-newbie.tistory.com/770)
+
 ## Shell
 
 ### brew
