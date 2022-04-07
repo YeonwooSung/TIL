@@ -29,6 +29,8 @@
 
 ## Shell
 
+[kill chrome in bash](./bash/kill_chrome.sh)
+
 ### brew
 
 ```bash
