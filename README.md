@@ -31,6 +31,8 @@
 
 [kill chrome in bash](./bash/kill_chrome.sh)
 
+[kill node js in bash](./bash/kill_node_js.sh)
+
 ### brew
 
 ```bash
