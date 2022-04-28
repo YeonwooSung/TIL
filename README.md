@@ -33,6 +33,8 @@
 
 [kill node js in bash](./bash/kill_node_js.sh)
 
+[Open Chromium with kiosk mode](./bash/chromium_kiosk_mode.sh)
+
 ### brew
 
 ```bash
