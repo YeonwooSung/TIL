@@ -93,3 +93,11 @@ $ brew cleanup
 ## Debugging
 
 * [스마트폰 앱 브라우저에서 크롬 개발자 도구 사용하기](https://medium.com/cashwalk/%EC%8A%A4%EB%A7%88%ED%8A%B8%ED%8F%B0-%EC%95%B1-%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EC%97%90%EC%84%9C-%ED%81%AC%EB%A1%AC-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%8F%84%EA%B5%AC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-c6a34d9aeb02)
+
+## Linux
+
+### Add bookmark
+
+Use simply Ctrl+D when you are in the desired directory.
+
+[Refernce](https://askubuntu.com/questions/83118/create-a-link-to-a-folder-on-the-left-panel-of-nautilus-file-manager)
