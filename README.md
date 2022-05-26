@@ -36,6 +36,10 @@
 
 [Open Chromium with kiosk mode](./bash/chromium_kiosk_mode.sh)
 
+[Linux kernel version checking](./bash/linux_kern_ver_check.sh)
+
+[Ubuntu version checking](./bash/ubuntu_version_check.sh)
+
 ### Date
 
 [Unix timestamp](./bash/unix_timestamp.sh)
