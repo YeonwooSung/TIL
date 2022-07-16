@@ -17,6 +17,8 @@
 * [Useful helper functions](./python/useful_helper_functions.py)
 * [Regular Expression with python - Simple example](./python/regex/simple_regex.py)
 * [Empty Trash bin with Python code](./python/empty_trash_bin.py)
+* [Decorators](./python/decorator/)
+        - [Custom decorator for private method](./python/decorator/private.py)
 
 ### setuptools
 

@@ -1,5 +1,7 @@
 # 1. Custom decorator -> private
 
+import sys, functools
+
 def private(member):
     @functools.wraps(member)
     def wrapper(*function_args):
