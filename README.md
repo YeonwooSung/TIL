@@ -1,14 +1,5 @@
 # Today I Learned
 
-## PyTorch
-
-* [PyTorch Hooks](./pytorch/pytorch_hooks/pytorch_hooks.py)
-
-### PyTorch Lightning
-
-* [GAN - PyTorch Lightning implementation](./pytorch/pytorch_lightning/gan/gan.py)
-* [Unit testing the PyTorch code](./pytorch/testing/how_to_test_if_pytorch_code_is_working_as_intended.md)
-
 ## Python
 
 * [one liner codes](./python/one_liner.py)
@@ -19,6 +10,17 @@
 * [Empty Trash bin with Python code](./python/empty_trash_bin.py)
 * [Decorators](./python/decorator/)
         - [Custom decorator for private method](./python/decorator/private.py)
+
+### PyTorch
+
+* [PyTorch Hooks](./python/pytorch/pytorch_hooks/pytorch_hooks.py)
+* [Patch an arbitrary function](./python/pytorch/torch_patch.py)
+
+#### PyTorch Lightning
+
+* [GAN - PyTorch Lightning implementation](./python/pytorch/pytorch_lightning/gan/gan.py)
+* [Unit testing the PyTorch code](./python/pytorch/testing/how_to_test_if_pytorch_code_is_working_as_intended.md)
+
 
 ### setuptools
 
