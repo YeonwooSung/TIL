@@ -36,6 +36,8 @@
 
 [Send multipart/form-data with curl](./bash/curl_multipart.sh)
 
+[Make own service with systemctl - Ubuntu](./bash/make_my_own_service.sh)
+
 [kill chrome in bash](./bash/kill_chrome.sh)
 
 [kill node js in bash](./bash/kill_node_js.sh)
