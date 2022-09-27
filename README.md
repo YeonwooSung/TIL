@@ -99,6 +99,7 @@ $ brew cleanup
 
 * [Audio permission issue](./javascript/audio_permission_for_autoplay/README.md)
 * [DOM class list](./javascript/DOM_classList/DOM_classList.md)
+* [For of loop](./javascript/basic/for_of_loop.js)
 * [Markdown parsing](./javascript/markdown_parsing/README.md)
 * [PM2 commands](./javascript/pm2/pm2_commands.md)
 * [Prevent SQL Injection in Node.js by using placeholders](./javascript/sql/prevent_sql_injection.js)
