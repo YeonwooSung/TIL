@@ -2,14 +2,14 @@
 
 ## Python
 
-* [one liner codes](./python/one_liner.py)
 * [4 for loop tricks](./python/4_for_loop_tricks.py)
-* [smooth 10 python tricks](./python/smooth_10_tricks.py)
-* [Useful helper functions](./python/useful_helper_functions.py)
-* [Regular Expression with python - Simple example](./python/regex/simple_regex.py)
-* [Empty Trash bin with Python code](./python/empty_trash_bin.py)
 * [Decorators](./python/decorator/)
         - [Custom decorator for private method](./python/decorator/private.py)
+* [Empty Trash bin with Python code](./python/empty_trash_bin.py)
+* [one liner codes](./python/one_liner.py)
+* [Regular Expression with python - Simple example](./python/regex/simple_regex.py)
+* [smooth 10 python tricks](./python/smooth_10_tricks.py)
+* [Useful helper functions](./python/useful_helper_functions.py)
 
 ### PyTorch
 
