@@ -103,6 +103,7 @@ $ brew cleanup
 * [Markdown parsing](./javascript/markdown_parsing/README.md)
 * [PM2 commands](./javascript/pm2/pm2_commands.md)
 * [Prevent SQL Injection in Node.js by using placeholders](./javascript/sql/prevent_sql_injection.js)
+* [Promise](./javascript/basic/promise.js)
 * [Spread operator & Rest operator have been added since ES6](./javascript/basic/spread_rest.js)
 
 ## Debugging
