@@ -117,3 +117,8 @@ $ brew cleanup
 Use simply Ctrl+D when you are in the desired directory.
 
 [Refernce](https://askubuntu.com/questions/83118/create-a-link-to-a-folder-on-the-left-panel-of-nautilus-file-manager)
+
+## DevOps
+
+* [Deploy flask with gunicorn](./devops/flask/deploy_with_gunicon.sh)
+* [Setup NginX with systemctl](./devops/nginx/setup_nginx_with_systemctl.sh)
