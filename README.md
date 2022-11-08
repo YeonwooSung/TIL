@@ -3,6 +3,11 @@
 ## Python
 
 * [4 for loop tricks](./python/4_for_loop_tricks.py)
+* [Concurrent programming in Python](./python/concurrency/)
+        - [asyncio loop](./python/concurrency/async_loop.py)
+        - [http session with asyncio](./python/concurrency/asyncio_http_example.py)
+        - [multi-threaded token bucket example](./python/concurrency/simple_token_bucket.py)
+        - [multi-threaded queue](./python/concurrency/simple_queue.py)
 * [Decorators](./python/decorator/)
         - [Custom decorator for private method](./python/decorator/private.py)
 * [Empty Trash bin with Python code](./python/empty_trash_bin.py)
