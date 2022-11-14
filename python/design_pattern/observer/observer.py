@@ -19,7 +19,6 @@ class SubjectABC(ABC):
 
 class Grepper(SubjectABC):
     def __init__(self):
-        #TODO
         self._observers: list[ObserverABC] = []
 
     def register(self, observer: ObserverABC):
