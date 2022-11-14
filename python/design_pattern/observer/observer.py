@@ -18,10 +18,8 @@ class SubjectABC(ABC):
 
 
 class Grepper(SubjectABC):
-    _observers: list[ObserverABC] = []
-
     def __init__(self):
-        print(f'Current # of observers -> {len(_observers)}')
+        self._observers: list[ObserverABC] = []
 
     def register(self, observer: ObserverABC):
         self._observers.append(observer)
