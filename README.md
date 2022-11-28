@@ -30,7 +30,6 @@ For more topics visit [here](./python/)
 * [GAN - PyTorch Lightning implementation](./python/pytorch/pytorch_lightning/gan/gan.py)
 * [Unit testing the PyTorch code](./python/pytorch/testing/how_to_test_if_pytorch_code_is_working_as_intended.md)
 
-
 ### setuptools
 
 라이센스 등 classifier 부분에 태그를 추가할 때에는 내용을 정확히 작성하지 않으면 빌드 시에 오류가 발생한다.
@@ -105,6 +104,7 @@ $ brew cleanup
 * [git 기본 사용 방법들](./Git/basic.md)
 * [1k changes 문제 해결하기](./Git/solve_1k.md)
 * [patch 생성 및 적용 방법](./Git/patch.md)
+* [temporary saving with stash](./Git/stash.md)
 
 ## Javascript
 
