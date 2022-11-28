@@ -35,31 +35,31 @@ For more topics visit [here](./python/)
 
 라이센스 등 classifier 부분에 태그를 추가할 때에는 내용을 정확히 작성하지 않으면 빌드 시에 오류가 발생한다.
 
-[참고 자료](https://pypi.org/classifiers/)
+* [참고 자료](https://pypi.org/classifiers/)
 
-[배포 관련](https://rampart81.github.io/post/python_package_publish/)
+* [배포 관련](https://rampart81.github.io/post/python_package_publish/)
 
-[패키징 방법](https://data-newbie.tistory.com/770)
+* [패키징 방법](https://data-newbie.tistory.com/770)
 
 ## Shell
 
-[Send multipart/form-data with curl](./bash/curl_multipart.sh)
+* [Send multipart/form-data with curl](./bash/curl_multipart.sh)
 
-[Make own service with systemctl - Ubuntu](./bash/make_my_own_service.sh)
+* [Make own service with systemctl - Ubuntu](./bash/make_my_own_service.sh)
 
-[kill chrome in bash](./bash/kill_chrome.sh)
+* [kill chrome in bash](./bash/kill_chrome.sh)
 
-[kill node js in bash](./bash/kill_node_js.sh)
+* [kill node js in bash](./bash/kill_node_js.sh)
 
-[Open Chromium with kiosk mode](./bash/chromium_kiosk_mode.sh)
+* [Open Chromium with kiosk mode](./bash/chromium_kiosk_mode.sh)
 
-[Linux kernel version checking](./bash/linux_kern_ver_check.sh)
+* [Linux kernel version checking](./bash/linux_kern_ver_check.sh)
 
-[Ubuntu version checking](./bash/ubuntu_version_check.sh)
+* [Ubuntu version checking](./bash/ubuntu_version_check.sh)
 
 ### Date
 
-[Unix timestamp](./bash/unix_timestamp.sh)
+* [Unix timestamp](./bash/unix_timestamp.sh)
 
 Below is a table that includes all commands for all datetime formats:
 
@@ -125,7 +125,7 @@ $ brew cleanup
 
 Use simply Ctrl+D when you are in the desired directory.
 
-[Refernce](https://askubuntu.com/questions/83118/create-a-link-to-a-folder-on-the-left-panel-of-nautilus-file-manager)
+* [Refernce](https://askubuntu.com/questions/83118/create-a-link-to-a-folder-on-the-left-panel-of-nautilus-file-manager)
 
 ## DevOps
 
