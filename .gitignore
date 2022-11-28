@@ -3,3 +3,7 @@
 
 *.pyc
 **/*.pyc
+
+**/.mutmut-cache
+*.cache
+**/*.cache
