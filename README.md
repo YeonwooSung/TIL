@@ -18,6 +18,8 @@
 * [smooth 10 python tricks](./python/smooth_10_tricks.py)
 * [Useful helper functions](./python/useful_helper_functions.py)
 
+For more topics visit [here](./python/)
+
 ### PyTorch
 
 * [PyTorch Hooks](./python/pytorch/pytorch_hooks/pytorch_hooks.py)
