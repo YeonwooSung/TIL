@@ -19,6 +19,7 @@
 * [logging](./logging/)
     * [Capture errors with sentry](./logging/sentry_error_capturing/)
     * [Configure logging from configurations](./logging/logging-configuration/)
+    * [Distributed tracing with jaeger](./logging/distributed-tracing-with-jaeger/)
 * [mutation testing](./mut-test/)
 * [object oriented programming](./oop/)
 * [PyTorch](./pytorch/)
