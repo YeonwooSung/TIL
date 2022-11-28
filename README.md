@@ -102,6 +102,7 @@ $ brew cleanup
 
 ## Git
 
+* [git 기본 사용 방법들](./Git/basic.md)
 * [1k changes 문제 해결하기](./Git/solve_1k.md)
 * [patch 생성 및 적용 방법](./Git/patch.md)
 
