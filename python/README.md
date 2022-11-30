@@ -24,6 +24,7 @@
 * [mutation testing](./mut-test/)
 * [object oriented programming](./oop/)
 * [PyTorch](./pytorch/)
+* [Performance Profiling](./profile-performance/)
 * [regular expression](./regex/)
 * [string handling (i.e. format string)](./string/)
 * [test-driven development](./tdd/)
