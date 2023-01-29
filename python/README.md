@@ -4,8 +4,9 @@
 * [CFFI and ctypes](./cffi_and_ctypes/)
 * [concurrency](./concurrency/)
 * [crawling](./crawling/)
+* [date and time](./date_and_time/)
 * [decorator](./decorator/)
-* [design patterns]
+* [design patterns](./design_pattern/)
     * [event handler](./design_pattern/event-handler/)
     * [observer pattern](./design_pattern/observer/)
 * [dictionary tricks](./dictionary_tricks/)
@@ -13,6 +14,7 @@
 * [faker](./faker/)
     * [testing with fake time](./faker/faking_time.py)
     * [testing with fake data](./faker/test_mailer.py)
+* [file paths](./path/)
 * [flask](./flask/)
 * [generator](./generator/)
 * [GUI in python](./gui/)
