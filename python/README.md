@@ -17,6 +17,8 @@
     * [testing with fake data](./faker/test_mailer.py)
 * [file paths](./path/)
 * [flask](./flask/)
+    * [Make Flask app to handle non-blocking I/O by using asyncio-based decorator](./flask/flask_asyncio_decorator.py)
+    * [Object Oriented programming with Flask](./flask/flask_oop_wrapping.py)
 * [generator](./generator/)
 * [GUI in python](./gui/)
 * [logging](./logging/)
