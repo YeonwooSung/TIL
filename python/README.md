@@ -1,6 +1,9 @@
 # Python
 
 * [AST](./abstrct_syntax_tree/)
+* [Batch Processing](./batch-processing/)
+    * [Airflow for building ETL pipeline](./batch-processing/airflow/)
+    * [Joblib for building Batch Processing Pipeline](./batch-processing/simple-joblib-pipeline.py)
 * [D-Bus](./dbus/)
 * [CFFI and ctypes](./cffi_and_ctypes/)
 * [concurrency](./concurrency/)
