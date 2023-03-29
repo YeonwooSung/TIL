@@ -63,6 +63,31 @@ This means that the `joblib.Parallel` is not a "real" parallel processing, and i
 However, the Python threading could be a good solution for IO-bound tasks, and it does not suffer from the complex IPC (Inter-Process Communication) of multiprocessing.
 So, if you are trying to make a IO-bounded batch processing task, using the `joblib.Parallel` could be a good choice.
 
+### Use multiprocessing for "real" parallel processing
+
+The multi-processing could be a good solution for CPU-bound tasks, and it does not suffer from the GIL of Python.
+So, if you are trying to make a CPU-bounded batch processing task, using the `multiprocessing` could be a good choice.
+
+However, if you are trying to make a IO-bounded batch processing task, using the `multiprocessing` could be a bad choice, because it is affected by the complex IPC of multiprocessing.
+
+Also, serializing and deserializing data in the multiprocessing could be a bottleneck for the performance of the multiprocessing.
+This is because the data needs to be serialized and deserialized when it is passed between processes.
+Serializing and deserializing a large data requires additional memory and disk, which makes the machine to use more I/O resources.
+
+If you abuse the `multiprocessing`, for example, passing an extremely large data as required arguments to the `multiprocessing.Pool`, it could be a bad choice.
+In this case, the multiprocessing will copy that large data for each process, and pass the copied data to each process with serialization and deserialization.
+
+The solution for overcoming this problem is simple: reduce the amount of serializations. Instead of serializing for each item, we will create an additional wrapper function that works on the batch inside the process. This results in only serializing the data once for each process.
+
+You could find the example codes of using multiprocessing with the wrapper function solution [here](./batch_with_progressbar/).
+
+To run the example:
+
+```bash
+$ cd batch_with_progressbar
+$ python batch_process.py
+```
+
 ## Batch Processing in Python with Apache Airflow
 
 Apache Airflow is a platform to programmatically author, schedule, and monitor workflows.
