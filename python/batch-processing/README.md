@@ -96,3 +96,8 @@ It is a workflow management system that allows users to create and schedule data
 Basically, Airflow itself is not a data processing engine, but you could use the Airflow to build a pipeline that runs a data processing engine.
 
 You could check out an example codes of Airflow [here](./airflow/).
+
+## References
+
+- [Python Batch Processing](https://hevodata.com/learn/python-batch-processing/)
+- [Parallel batch processing in Python](https://towardsdatascience.com/parallel-batch-processing-in-python-8dcce607d226)
