@@ -13,4 +13,5 @@ As you know, the HTTP is used as a standard protocol for Web services.
 ## Codes
 
 - [simple HTTP server](./simple_http_server/main.py)
-- [simple WSGI from scratch](./simple_wsgi)
+- [simple WSGI from scratch - 1 request per time](./simple_wsgi)
+- [simple WSGI from scratch - concurrency version](./concurrent_http_server)
