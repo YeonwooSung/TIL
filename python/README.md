@@ -24,6 +24,8 @@
     * [Object Oriented programming with Flask](./flask/flask_oop_wrapping.py)
 * [generator](./generator/)
 * [GUI in python](./gui/)
+    * [tk](./gui/pytk/)
+    * [pyqt](./gui/pyqt/)
 * [logging](./logging/)
     * [Capture errors with sentry](./logging/sentry_error_capturing/)
     * [Configure logging from configurations](./logging/logging-configuration/)
