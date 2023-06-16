@@ -23,6 +23,8 @@
     * [Make Flask app to handle non-blocking I/O by using asyncio-based decorator](./flask/flask_asyncio_decorator.py)
     * [Object Oriented programming with Flask](./flask/flask_oop_wrapping.py)
 * [generator](./generator/)
+* [geoinformation](./geoinformation/)
+    * [pgeocode](./geoinformation/pgeocode_examples/)
 * [GUI in python](./gui/)
     * [tk](./gui/pytk/)
     * [pyqt](./gui/pyqt/)
