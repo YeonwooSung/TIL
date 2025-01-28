@@ -41,3 +41,17 @@
 * [string handling (i.e. format string)](./string/)
 * [test-driven development](./tdd/)
 * [webserver from scratch!](./web_server_from_scratch/)
+
+## setup.py
+
+1. Create `dist` directory and `wheel` file:
+```bash
+python setup.py sdist bdist_wheel
+```
+
+2. Use twine to upload the package to PyPI:
+```bash
+pip install twine
+
+python -m twine upload dist/*
+```
